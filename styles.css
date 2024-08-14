@@ -406,7 +406,6 @@
 .coms{
     height: 328px;
     padding: 64px 165px 64px 165px;
-    border: solid 2px blue;
     display: flex;
     justify-content: space-between;
     background-color: #263238;
@@ -416,7 +415,6 @@
 .coms-one{
     width: 350px;
     height: 189.67px;
-    border: solid 2px red;
 }
 .coms-one p{
     font-size: 14px;
@@ -424,14 +422,12 @@
 .coms-two{
     width: 635px;
     height: 200px;
-    border: solid 2px yellow;
     display: flex;
     justify-content: space-between;
 }
 .company{
     width: 160px;
     height: 200px;
-    border: solid 2px pink;
 }    
 .company h4{
     margin-bottom: 20px;
@@ -469,7 +465,6 @@
     width: 160px;
     height: 200px;
     gap: 24px;
-    border: 2px solid blueviolet;
 }
 .coms-onelogo{
     display: flex;
@@ -481,7 +476,6 @@
     width: 255px;
     height: 92px;
     gap: 24px;
-    border: 2px solid green;
     position: relative;
     padding: 0px;
     box-sizing: border-box;
